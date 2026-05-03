@@ -1,0 +1,13 @@
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Personal scratchpad / brain dump file
+brain_dump.txt

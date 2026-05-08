@@ -3,7 +3,9 @@
 A machine learning study exploring the boundaries of **polynomial regression, overfitting, and regularization** using global air quality data.
 
 ## 🚀 Overview
-This project predicts **PM2.5 concentrations** by analyzing the relationship between time and environmental features. It serves as a practical deep-dive into the **bias–variance tradeoff**, demonstrating how model complexity impacts generalization.
+This project investigates how PM2.5 concentrations can be modeled using environmental and contextual features. The primary focus is not forecasting, but understanding how model complexity affects generalization in regression models.
+
+It serves as a hands-on study of the bias–variance tradeoff, demonstrating how polynomial transformations can both improve expressiveness and introduce severe overfitting.
 
 ## 🎯 Key Learning Objectives
 *   **Overfitting Visualization**: Mapping how high-degree polynomials (1–12) "memorize" noise.
@@ -25,7 +27,6 @@ This project predicts **PM2.5 concentrations** by analyzing the relationship bet
 
 ## 📁 Project Structure
 ```text
-.
 ├── data/       # Raw and processed air quality datasets
 ├── notebooks/  # Exploration and experiment walkthroughs
 ├── src/        # Core scripts for data fetching and modeling

@@ -33,7 +33,3 @@ It serves as a hands-on study of the bias–variance tradeoff, demonstrating how
 └── results/    # Generated plots, heatmaps, and metrics
 ```
 
----
-
-### 📝 Status
-> 🚧 **Work in progress** — initial setup phase
